@@ -18,7 +18,7 @@
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Nuggler-1/ai-slop.git
+   git clone https://github.com/monts3rrat/openrouter-hyperbolic
    cd ai-slop
    ```
 
